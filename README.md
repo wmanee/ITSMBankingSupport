@@ -19,7 +19,7 @@ An experimental **Agentic AI-based ITSM (IT Service Management)** support system
 
 ## 🧱 Architecture Overview
 
-<img width="1920" height="1080" alt="ITSMWorkflow2 (1)" src="https://github.com/user-attachments/assets/0beda0e6-003d-48b0-9626-c2888d80c418" />
+<img width="1920" height="1080" alt="ITSMWorkflow2 (1)" src="https://github.com/user-attachments/assets/3bf3db39-10a0-4395-9bee-3e99f4fd5204" />
 
 
 * **Dify**: LLM-based agent framework with memory, tools, and prompt chaining
@@ -30,7 +30,7 @@ An experimental **Agentic AI-based ITSM (IT Service Management)** support system
 
 ## Actual Architecture in Dify
 
-![ITSM Support](https://github.com/user-attachments/assets/224cd4f6-99cc-44aa-832f-aedb054bcdea)
+![ITSM Support](https://github.com/user-attachments/assets/02b809e7-7771-44ac-aab0-7032ccba5f37)
 
 ---
 
